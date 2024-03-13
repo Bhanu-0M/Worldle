@@ -1,0 +1,1717 @@
+[
+    {
+        "country": "AD",
+        "latitude": 42.546245,
+        "longitude": 1.601554,
+        "name": "Andorra",
+        "maplink": "./images/ad/1024.jpg"
+    },
+    {
+        "country": "AE",
+        "latitude": 23.424076,
+        "longitude": 53.847818,
+        "name": "United Arab Emirates",
+        "maplink": "./images/ae/1024.jpg"
+    },
+    {
+        "country": "AF",
+        "latitude": 33.93911,
+        "longitude": 67.709953,
+        "name": "Afghanistan",
+        "maplink": "./images/af/1024.jpg"
+    },
+    {
+        "country": "AG",
+        "latitude": 17.060816,
+        "longitude": -61.796428,
+        "name": "Antigua and Barbuda",
+        "maplink": "./images/ag/1024.jpg"
+    },
+    {
+        "country": "AI",
+        "latitude": 18.220554,
+        "longitude": -63.068615,
+        "name": "Anguilla",
+        "maplink": "./images/ai/1024.jpg"
+    },
+    {
+        "country": "AL",
+        "latitude": 41.153332,
+        "longitude": 20.168331,
+        "name": "Albania",
+        "maplink": "./images/al/1024.jpg"
+    },
+    {
+        "country": "AM",
+        "latitude": 40.069099,
+        "longitude": 45.038189,
+        "name": "Armenia",
+        "maplink": "./images/am/1024.jpg"
+    },
+    {
+        "country": "AN",
+        "latitude": 12.226079,
+        "longitude": -69.060087,
+        "name": "Netherlands Antilles",
+        "maplink": "./images/an/1024.jpg"
+    },
+    {
+        "country": "AO",
+        "latitude": -11.202692,
+        "longitude": 17.873887,
+        "name": "Angola",
+        "maplink": "./images/ao/1024.jpg"
+    },
+    {
+        "country": "AQ",
+        "latitude": -75.250973,
+        "longitude": -0.071389,
+        "name": "Antarctica",
+        "maplink": "./images/aq/1024.jpg"
+    },
+    {
+        "country": "AR",
+        "latitude": -38.416097,
+        "longitude": -63.616672,
+        "name": "Argentina",
+        "maplink": "./images/ar/1024.jpg"
+    },
+    {
+        "country": "AS",
+        "latitude": -14.270972,
+        "longitude": -170.132217,
+        "name": "American Samoa",
+        "maplink": "./images/as/1024.jpg"
+    },
+    {
+        "country": "AT",
+        "latitude": 47.516231,
+        "longitude": 14.550072,
+        "name": "Austria",
+        "maplink": "./images/at/1024.jpg"
+    },
+    {
+        "country": "AU",
+        "latitude": -25.274398,
+        "longitude": 133.775136,
+        "name": "Australia",
+        "maplink": "./images/au/1024.jpg"
+    },
+    {
+        "country": "AW",
+        "latitude": 12.52111,
+        "longitude": -69.968338,
+        "name": "Aruba",
+        "maplink": "./images/aw/1024.jpg"
+    },
+    {
+        "country": "AZ",
+        "latitude": 40.143105,
+        "longitude": 47.576927,
+        "name": "Azerbaijan",
+        "maplink": "./images/az/1024.jpg"
+    },
+    {
+        "country": "BA",
+        "latitude": 43.915886,
+        "longitude": 17.679076,
+        "name": "Bosnia and Herzegovina",
+        "maplink": "./images/ba/1024.jpg"
+    },
+    {
+        "country": "BB",
+        "latitude": 13.193887,
+        "longitude": -59.543198,
+        "name": "Barbados",
+        "maplink": "./images/bb/1024.jpg"
+    },
+    {
+        "country": "BD",
+        "latitude": 23.684994,
+        "longitude": 90.356331,
+        "name": "Bangladesh",
+        "maplink": "./images/bd/1024.jpg"
+    },
+    {
+        "country": "BE",
+        "latitude": 50.503887,
+        "longitude": 4.469936,
+        "name": "Belgium",
+        "maplink": "./images/be/1024.jpg"
+    },
+    {
+        "country": "BF",
+        "latitude": 12.238333,
+        "longitude": -1.561593,
+        "name": "Burkina Faso",
+        "maplink": "./images/bf/1024.jpg"
+    },
+    {
+        "country": "BG",
+        "latitude": 42.733883,
+        "longitude": 25.48583,
+        "name": "Bulgaria",
+        "maplink": "./images/bg/1024.jpg"
+    },
+    {
+        "country": "BH",
+        "latitude": 25.930414,
+        "longitude": 50.637772,
+        "name": "Bahrain",
+        "maplink": "./images/bh/1024.jpg"
+    },
+    {
+        "country": "BI",
+        "latitude": -3.373056,
+        "longitude": 29.918886,
+        "name": "Burundi",
+        "maplink": "./images/bi/1024.jpg"
+    },
+    {
+        "country": "BJ",
+        "latitude": 9.30769,
+        "longitude": 2.315834,
+        "name": "Benin",
+        "maplink": "./images/bj/1024.jpg"
+    },
+    {
+        "country": "BM",
+        "latitude": 32.321384,
+        "longitude": -64.75737,
+        "name": "Bermuda",
+        "maplink": "./images/bm/1024.jpg"
+    },
+    {
+        "country": "BN",
+        "latitude": 4.535277,
+        "longitude": 114.727669,
+        "name": "Brunei",
+        "maplink": "./images/bn/1024.jpg"
+    },
+    {
+        "country": "BO",
+        "latitude": -16.290154,
+        "longitude": -63.588653,
+        "name": "Bolivia",
+        "maplink": "./images/bo/1024.jpg"
+    },
+    {
+        "country": "BR",
+        "latitude": -14.235004,
+        "longitude": -51.92528,
+        "name": "Brazil",
+        "maplink": "./images/br/1024.jpg"
+    },
+    {
+        "country": "BS",
+        "latitude": 25.03428,
+        "longitude": -77.39628,
+        "name": "Bahamas",
+        "maplink": "./images/bs/1024.jpg"
+    },
+    {
+        "country": "BT",
+        "latitude": 27.514162,
+        "longitude": 90.433601,
+        "name": "Bhutan",
+        "maplink": "./images/bt/1024.jpg"
+    },
+    {
+        "country": "BV",
+        "latitude": -54.423199,
+        "longitude": 3.413194,
+        "name": "Bouvet Island",
+        "maplink": "./images/bv/1024.jpg"
+    },
+    {
+        "country": "BW",
+        "latitude": -22.328474,
+        "longitude": 24.684866,
+        "name": "Botswana",
+        "maplink": "./images/bw/1024.jpg"
+    },
+    {
+        "country": "BY",
+        "latitude": 53.709807,
+        "longitude": 27.953389,
+        "name": "Belarus",
+        "maplink": "./images/by/1024.jpg"
+    },
+    {
+        "country": "BZ",
+        "latitude": 17.189877,
+        "longitude": -88.49765,
+        "name": "Belize",
+        "maplink": "./images/bz/1024.jpg"
+    },
+    {
+        "country": "CA",
+        "latitude": 56.130366,
+        "longitude": -106.346771,
+        "name": "Canada",
+        "maplink": "./images/ca/1024.jpg"
+    },
+    {
+        "country": "CC",
+        "latitude": -12.164165,
+        "longitude": 96.870956,
+        "name": "Cocos [Keeling] Islands",
+        "maplink": "./images/cc/1024.jpg"
+    },
+    {
+        "country": "CD",
+        "latitude": -4.038333,
+        "longitude": 21.758664,
+        "name": "Congo [DRC]",
+        "maplink": "./images/cd/1024.jpg"
+    },
+    {
+        "country": "CF",
+        "latitude": 6.611111,
+        "longitude": 20.939444,
+        "name": "Central African Republic",
+        "maplink": "./images/cf/1024.jpg"
+    },
+    {
+        "country": "CG",
+        "latitude": -0.228021,
+        "longitude": 15.827659,
+        "name": "Congo [Republic]",
+        "maplink": "./images/cg/1024.jpg"
+    },
+    {
+        "country": "CH",
+        "latitude": 46.818188,
+        "longitude": 8.227512,
+        "name": "Switzerland",
+        "maplink": "./images/ch/1024.jpg"
+    },
+    {
+        "country": "CI",
+        "latitude": 7.539989,
+        "longitude": -5.54708,
+        "name": "C\u00c3\u00b4te d'Ivoire",
+        "maplink": "./images/ci/1024.jpg"
+    },
+    {
+        "country": "CK",
+        "latitude": -21.236736,
+        "longitude": -159.777671,
+        "name": "Cook Islands",
+        "maplink": "./images/ck/1024.jpg"
+    },
+    {
+        "country": "CL",
+        "latitude": -35.675147,
+        "longitude": -71.542969,
+        "name": "Chile",
+        "maplink": "./images/cl/1024.jpg"
+    },
+    {
+        "country": "CM",
+        "latitude": 7.369722,
+        "longitude": 12.354722,
+        "name": "Cameroon",
+        "maplink": "./images/cm/1024.jpg"
+    },
+    {
+        "country": "CN",
+        "latitude": 35.86166,
+        "longitude": 104.195397,
+        "name": "China",
+        "maplink": "./images/cn/1024.jpg"
+    },
+    {
+        "country": "CO",
+        "latitude": 4.570868,
+        "longitude": -74.297333,
+        "name": "Colombia",
+        "maplink": "./images/co/1024.jpg"
+    },
+    {
+        "country": "CR",
+        "latitude": 9.748917,
+        "longitude": -83.753428,
+        "name": "Costa Rica",
+        "maplink": "./images/cr/1024.jpg"
+    },
+    {
+        "country": "CU",
+        "latitude": 21.521757,
+        "longitude": -77.781167,
+        "name": "Cuba",
+        "maplink": "./images/cu/1024.jpg"
+    },
+    {
+        "country": "CV",
+        "latitude": 16.002082,
+        "longitude": -24.013197,
+        "name": "Cape Verde",
+        "maplink": "./images/cv/1024.jpg"
+    },
+    {
+        "country": "CX",
+        "latitude": -10.447525,
+        "longitude": 105.690449,
+        "name": "Christmas Island",
+        "maplink": "./images/cx/1024.jpg"
+    },
+    {
+        "country": "CY",
+        "latitude": 35.126413,
+        "longitude": 33.429859,
+        "name": "Cyprus",
+        "maplink": "./images/cy/1024.jpg"
+    },
+    {
+        "country": "CZ",
+        "latitude": 49.817492,
+        "longitude": 15.472962,
+        "name": "Czech Republic",
+        "maplink": "./images/cz/1024.jpg"
+    },
+    {
+        "country": "DE",
+        "latitude": 51.165691,
+        "longitude": 10.451526,
+        "name": "Germany",
+        "maplink": "./images/de/1024.jpg"
+    },
+    {
+        "country": "DJ",
+        "latitude": 11.825138,
+        "longitude": 42.590275,
+        "name": "Djibouti",
+        "maplink": "./images/dj/1024.jpg"
+    },
+    {
+        "country": "DK",
+        "latitude": 56.26392,
+        "longitude": 9.501785,
+        "name": "Denmark",
+        "maplink": "./images/dk/1024.jpg"
+    },
+    {
+        "country": "DM",
+        "latitude": 15.414999,
+        "longitude": -61.370976,
+        "name": "Dominica",
+        "maplink": "./images/dm/1024.jpg"
+    },
+    {
+        "country": "DO",
+        "latitude": 18.735693,
+        "longitude": -70.162651,
+        "name": "Dominican Republic",
+        "maplink": "./images/do/1024.jpg"
+    },
+    {
+        "country": "DZ",
+        "latitude": 28.033886,
+        "longitude": 1.659626,
+        "name": "Algeria",
+        "maplink": "./images/dz/1024.jpg"
+    },
+    {
+        "country": "EC",
+        "latitude": -1.831239,
+        "longitude": -78.183406,
+        "name": "Ecuador",
+        "maplink": "./images/ec/1024.jpg"
+    },
+    {
+        "country": "EE",
+        "latitude": 58.595272,
+        "longitude": 25.013607,
+        "name": "Estonia",
+        "maplink": "./images/ee/1024.jpg"
+    },
+    {
+        "country": "EG",
+        "latitude": 26.820553,
+        "longitude": 30.802498,
+        "name": "Egypt",
+        "maplink": "./images/eg/1024.jpg"
+    },
+    {
+        "country": "EH",
+        "latitude": 24.215527,
+        "longitude": -12.885834,
+        "name": "Western Sahara",
+        "maplink": "./images/eh/1024.jpg"
+    },
+    {
+        "country": "ER",
+        "latitude": 15.179384,
+        "longitude": 39.782334,
+        "name": "Eritrea",
+        "maplink": "./images/er/1024.jpg"
+    },
+    {
+        "country": "ES",
+        "latitude": 40.463667,
+        "longitude": -3.74922,
+        "name": "Spain",
+        "maplink": "./images/es/1024.jpg"
+    },
+    {
+        "country": "ET",
+        "latitude": 9.145,
+        "longitude": 40.489673,
+        "name": "Ethiopia",
+        "maplink": "./images/et/1024.jpg"
+    },
+    {
+        "country": "FI",
+        "latitude": 61.92411,
+        "longitude": 25.748151,
+        "name": "Finland",
+        "maplink": "./images/fi/1024.jpg"
+    },
+    {
+        "country": "FJ",
+        "latitude": -16.578193,
+        "longitude": 179.414413,
+        "name": "Fiji",
+        "maplink": "./images/fj/1024.jpg"
+    },
+    {
+        "country": "FK",
+        "latitude": -51.796253,
+        "longitude": -59.523613,
+        "name": "Falkland Islands [Islas Malvinas]",
+        "maplink": "./images/fk/1024.jpg"
+    },
+    {
+        "country": "FM",
+        "latitude": 7.425554,
+        "longitude": 150.550812,
+        "name": "Micronesia",
+        "maplink": "./images/fm/1024.jpg"
+    },
+    {
+        "country": "FO",
+        "latitude": 61.892635,
+        "longitude": -6.911806,
+        "name": "Faroe Islands",
+        "maplink": "./images/fo/1024.jpg"
+    },
+    {
+        "country": "FR",
+        "latitude": 46.227638,
+        "longitude": 2.213749,
+        "name": "France",
+        "maplink": "./images/fr/1024.jpg"
+    },
+    {
+        "country": "GA",
+        "latitude": -0.803689,
+        "longitude": 11.609444,
+        "name": "Gabon",
+        "maplink": "./images/ga/1024.jpg"
+    },
+    {
+        "country": "GB",
+        "latitude": 55.378051,
+        "longitude": -3.435973,
+        "name": "United Kingdom",
+        "maplink": "./images/gb/1024.jpg"
+    },
+    {
+        "country": "GD",
+        "latitude": 12.262776,
+        "longitude": -61.604171,
+        "name": "Grenada",
+        "maplink": "./images/gd/1024.jpg"
+    },
+    {
+        "country": "GE",
+        "latitude": 42.315407,
+        "longitude": 43.356892,
+        "name": "Georgia",
+        "maplink": "./images/ge/1024.jpg"
+    },
+    {
+        "country": "GF",
+        "latitude": 3.933889,
+        "longitude": -53.125782,
+        "name": "French Guiana",
+        "maplink": "./images/gf/1024.jpg"
+    },
+    {
+        "country": "GG",
+        "latitude": 49.465691,
+        "longitude": -2.585278,
+        "name": "Guernsey",
+        "maplink": "./images/gg/1024.jpg"
+    },
+    {
+        "country": "GH",
+        "latitude": 7.946527,
+        "longitude": -1.023194,
+        "name": "Ghana",
+        "maplink": "./images/gh/1024.jpg"
+    },
+    {
+        "country": "GI",
+        "latitude": 36.137741,
+        "longitude": -5.345374,
+        "name": "Gibraltar",
+        "maplink": "./images/gi/1024.jpg"
+    },
+    {
+        "country": "GL",
+        "latitude": 71.706936,
+        "longitude": -42.604303,
+        "name": "Greenland",
+        "maplink": "./images/gl/1024.jpg"
+    },
+    {
+        "country": "GM",
+        "latitude": 13.443182,
+        "longitude": -15.310139,
+        "name": "Gambia",
+        "maplink": "./images/gm/1024.jpg"
+    },
+    {
+        "country": "GN",
+        "latitude": 9.945587,
+        "longitude": -9.696645,
+        "name": "Guinea",
+        "maplink": "./images/gn/1024.jpg"
+    },
+    {
+        "country": "GP",
+        "latitude": 16.995971,
+        "longitude": -62.067641,
+        "name": "Guadeloupe",
+        "maplink": "./images/gp/1024.jpg"
+    },
+    {
+        "country": "GQ",
+        "latitude": 1.650801,
+        "longitude": 10.267895,
+        "name": "Equatorial Guinea",
+        "maplink": "./images/gq/1024.jpg"
+    },
+    {
+        "country": "GR",
+        "latitude": 39.074208,
+        "longitude": 21.824312,
+        "name": "Greece",
+        "maplink": "./images/gr/1024.jpg"
+    },
+    {
+        "country": "GS",
+        "latitude": -54.429579,
+        "longitude": -36.587909,
+        "name": "South Georgia and the South Sandwich Islands",
+        "maplink": "./images/gs/1024.jpg"
+    },
+    {
+        "country": "GT",
+        "latitude": 15.783471,
+        "longitude": -90.230759,
+        "name": "Guatemala",
+        "maplink": "./images/gt/1024.jpg"
+    },
+    {
+        "country": "GU",
+        "latitude": 13.444304,
+        "longitude": 144.793731,
+        "name": "Guam",
+        "maplink": "./images/gu/1024.jpg"
+    },
+    {
+        "country": "GW",
+        "latitude": 11.803749,
+        "longitude": -15.180413,
+        "name": "Guinea-Bissau",
+        "maplink": "./images/gw/1024.jpg"
+    },
+    {
+        "country": "GY",
+        "latitude": 4.860416,
+        "longitude": -58.93018,
+        "name": "Guyana",
+        "maplink": "./images/gy/1024.jpg"
+    },
+    {
+        "country": "GZ",
+        "latitude": 31.354676,
+        "longitude": 34.308825,
+        "name": "Gaza Strip",
+        "maplink": "./images/gz/1024.jpg"
+    },
+    {
+        "country": "HK",
+        "latitude": 22.396428,
+        "longitude": 114.109497,
+        "name": "Hong Kong",
+        "maplink": "./images/hk/1024.jpg"
+    },
+    {
+        "country": "HM",
+        "latitude": -53.08181,
+        "longitude": 73.504158,
+        "name": "Heard Island and McDonald Islands",
+        "maplink": "./images/hm/1024.jpg"
+    },
+    {
+        "country": "HN",
+        "latitude": 15.199999,
+        "longitude": -86.241905,
+        "name": "Honduras",
+        "maplink": "./images/hn/1024.jpg"
+    },
+    {
+        "country": "HR",
+        "latitude": 45.1,
+        "longitude": 15.2,
+        "name": "Croatia",
+        "maplink": "./images/hr/1024.jpg"
+    },
+    {
+        "country": "HT",
+        "latitude": 18.971187,
+        "longitude": -72.285215,
+        "name": "Haiti",
+        "maplink": "./images/ht/1024.jpg"
+    },
+    {
+        "country": "HU",
+        "latitude": 47.162494,
+        "longitude": 19.503304,
+        "name": "Hungary",
+        "maplink": "./images/hu/1024.jpg"
+    },
+    {
+        "country": "ID",
+        "latitude": -0.789275,
+        "longitude": 113.921327,
+        "name": "Indonesia",
+        "maplink": "./images/id/1024.jpg"
+    },
+    {
+        "country": "IE",
+        "latitude": 53.41291,
+        "longitude": -8.24389,
+        "name": "Ireland",
+        "maplink": "./images/ie/1024.jpg"
+    },
+    {
+        "country": "IL",
+        "latitude": 31.046051,
+        "longitude": 34.851612,
+        "name": "Israel",
+        "maplink": "./images/il/1024.jpg"
+    },
+    {
+        "country": "IM",
+        "latitude": 54.236107,
+        "longitude": -4.548056,
+        "name": "Isle of Man",
+        "maplink": "./images/im/1024.jpg"
+    },
+    {
+        "country": "IN",
+        "latitude": 20.593684,
+        "longitude": 78.96288,
+        "name": "India",
+        "maplink": "./images/in/1024.jpg"
+    },
+    {
+        "country": "IO",
+        "latitude": -6.343194,
+        "longitude": 71.876519,
+        "name": "British Indian Ocean Territory",
+        "maplink": "./images/io/1024.jpg"
+    },
+    {
+        "country": "IQ",
+        "latitude": 33.223191,
+        "longitude": 43.679291,
+        "name": "Iraq",
+        "maplink": "./images/iq/1024.jpg"
+    },
+    {
+        "country": "IR",
+        "latitude": 32.427908,
+        "longitude": 53.688046,
+        "name": "Iran",
+        "maplink": "./images/ir/1024.jpg"
+    },
+    {
+        "country": "IS",
+        "latitude": 64.963051,
+        "longitude": -19.020835,
+        "name": "Iceland",
+        "maplink": "./images/is/1024.jpg"
+    },
+    {
+        "country": "IT",
+        "latitude": 41.87194,
+        "longitude": 12.56738,
+        "name": "Italy",
+        "maplink": "./images/it/1024.jpg"
+    },
+    {
+        "country": "JE",
+        "latitude": 49.214439,
+        "longitude": -2.13125,
+        "name": "Jersey",
+        "maplink": "./images/je/1024.jpg"
+    },
+    {
+        "country": "JM",
+        "latitude": 18.109581,
+        "longitude": -77.297508,
+        "name": "Jamaica",
+        "maplink": "./images/jm/1024.jpg"
+    },
+    {
+        "country": "JO",
+        "latitude": 30.585164,
+        "longitude": 36.238414,
+        "name": "Jordan",
+        "maplink": "./images/jo/1024.jpg"
+    },
+    {
+        "country": "JP",
+        "latitude": 36.204824,
+        "longitude": 138.252924,
+        "name": "Japan",
+        "maplink": "./images/jp/1024.jpg"
+    },
+    {
+        "country": "KE",
+        "latitude": -0.023559,
+        "longitude": 37.906193,
+        "name": "Kenya",
+        "maplink": "./images/ke/1024.jpg"
+    },
+    {
+        "country": "KG",
+        "latitude": 41.20438,
+        "longitude": 74.766098,
+        "name": "Kyrgyzstan",
+        "maplink": "./images/kg/1024.jpg"
+    },
+    {
+        "country": "KH",
+        "latitude": 12.565679,
+        "longitude": 104.990963,
+        "name": "Cambodia",
+        "maplink": "./images/kh/1024.jpg"
+    },
+    {
+        "country": "KI",
+        "latitude": -3.370417,
+        "longitude": -168.734039,
+        "name": "Kiribati",
+        "maplink": "./images/ki/1024.jpg"
+    },
+    {
+        "country": "KM",
+        "latitude": -11.875001,
+        "longitude": 43.872219,
+        "name": "Comoros",
+        "maplink": "./images/km/1024.jpg"
+    },
+    {
+        "country": "KN",
+        "latitude": 17.357822,
+        "longitude": -62.782998,
+        "name": "Saint Kitts and Nevis",
+        "maplink": "./images/kn/1024.jpg"
+    },
+    {
+        "country": "KP",
+        "latitude": 40.339852,
+        "longitude": 127.510093,
+        "name": "North Korea",
+        "maplink": "./images/kp/1024.jpg"
+    },
+    {
+        "country": "KR",
+        "latitude": 35.907757,
+        "longitude": 127.766922,
+        "name": "South Korea",
+        "maplink": "./images/kr/1024.jpg"
+    },
+    {
+        "country": "KW",
+        "latitude": 29.31166,
+        "longitude": 47.481766,
+        "name": "Kuwait",
+        "maplink": "./images/kw/1024.jpg"
+    },
+    {
+        "country": "KY",
+        "latitude": 19.513469,
+        "longitude": -80.566956,
+        "name": "Cayman Islands",
+        "maplink": "./images/ky/1024.jpg"
+    },
+    {
+        "country": "KZ",
+        "latitude": 48.019573,
+        "longitude": 66.923684,
+        "name": "Kazakhstan",
+        "maplink": "./images/kz/1024.jpg"
+    },
+    {
+        "country": "LA",
+        "latitude": 19.85627,
+        "longitude": 102.495496,
+        "name": "Laos",
+        "maplink": "./images/la/1024.jpg"
+    },
+    {
+        "country": "LB",
+        "latitude": 33.854721,
+        "longitude": 35.862285,
+        "name": "Lebanon",
+        "maplink": "./images/lb/1024.jpg"
+    },
+    {
+        "country": "LC",
+        "latitude": 13.909444,
+        "longitude": -60.978893,
+        "name": "Saint Lucia",
+        "maplink": "./images/lc/1024.jpg"
+    },
+    {
+        "country": "LI",
+        "latitude": 47.166,
+        "longitude": 9.555373,
+        "name": "Liechtenstein",
+        "maplink": "./images/li/1024.jpg"
+    },
+    {
+        "country": "LK",
+        "latitude": 7.873054,
+        "longitude": 80.771797,
+        "name": "Sri Lanka",
+        "maplink": "./images/lk/1024.jpg"
+    },
+    {
+        "country": "LR",
+        "latitude": 6.428055,
+        "longitude": -9.429499,
+        "name": "Liberia",
+        "maplink": "./images/lr/1024.jpg"
+    },
+    {
+        "country": "LS",
+        "latitude": -29.609988,
+        "longitude": 28.233608,
+        "name": "Lesotho",
+        "maplink": "./images/ls/1024.jpg"
+    },
+    {
+        "country": "LT",
+        "latitude": 55.169438,
+        "longitude": 23.881275,
+        "name": "Lithuania",
+        "maplink": "./images/lt/1024.jpg"
+    },
+    {
+        "country": "LU",
+        "latitude": 49.815273,
+        "longitude": 6.129583,
+        "name": "Luxembourg",
+        "maplink": "./images/lu/1024.jpg"
+    },
+    {
+        "country": "LV",
+        "latitude": 56.879635,
+        "longitude": 24.603189,
+        "name": "Latvia",
+        "maplink": "./images/lv/1024.jpg"
+    },
+    {
+        "country": "LY",
+        "latitude": 26.3351,
+        "longitude": 17.228331,
+        "name": "Libya",
+        "maplink": "./images/ly/1024.jpg"
+    },
+    {
+        "country": "MA",
+        "latitude": 31.791702,
+        "longitude": -7.09262,
+        "name": "Morocco",
+        "maplink": "./images/ma/1024.jpg"
+    },
+    {
+        "country": "MC",
+        "latitude": 43.750298,
+        "longitude": 7.412841,
+        "name": "Monaco",
+        "maplink": "./images/mc/1024.jpg"
+    },
+    {
+        "country": "MD",
+        "latitude": 47.411631,
+        "longitude": 28.369885,
+        "name": "Moldova",
+        "maplink": "./images/md/1024.jpg"
+    },
+    {
+        "country": "ME",
+        "latitude": 42.708678,
+        "longitude": 19.37439,
+        "name": "Montenegro",
+        "maplink": "./images/me/1024.jpg"
+    },
+    {
+        "country": "MG",
+        "latitude": -18.766947,
+        "longitude": 46.869107,
+        "name": "Madagascar",
+        "maplink": "./images/mg/1024.jpg"
+    },
+    {
+        "country": "MH",
+        "latitude": 7.131474,
+        "longitude": 171.184478,
+        "name": "Marshall Islands",
+        "maplink": "./images/mh/1024.jpg"
+    },
+    {
+        "country": "MK",
+        "latitude": 41.608635,
+        "longitude": 21.745275,
+        "name": "Macedonia [FYROM]",
+        "maplink": "./images/mk/1024.jpg"
+    },
+    {
+        "country": "ML",
+        "latitude": 17.570692,
+        "longitude": -3.996166,
+        "name": "Mali",
+        "maplink": "./images/ml/1024.jpg"
+    },
+    {
+        "country": "MM",
+        "latitude": 21.913965,
+        "longitude": 95.956223,
+        "name": "Myanmar [Burma]",
+        "maplink": "./images/mm/1024.jpg"
+    },
+    {
+        "country": "MN",
+        "latitude": 46.862496,
+        "longitude": 103.846656,
+        "name": "Mongolia",
+        "maplink": "./images/mn/1024.jpg"
+    },
+    {
+        "country": "MO",
+        "latitude": 22.198745,
+        "longitude": 113.543873,
+        "name": "Macau",
+        "maplink": "./images/mo/1024.jpg"
+    },
+    {
+        "country": "MP",
+        "latitude": 17.33083,
+        "longitude": 145.38469,
+        "name": "Northern Mariana Islands",
+        "maplink": "./images/mp/1024.jpg"
+    },
+    {
+        "country": "MQ",
+        "latitude": 14.641528,
+        "longitude": -61.024174,
+        "name": "Martinique",
+        "maplink": "./images/mq/1024.jpg"
+    },
+    {
+        "country": "MR",
+        "latitude": 21.00789,
+        "longitude": -10.940835,
+        "name": "Mauritania",
+        "maplink": "./images/mr/1024.jpg"
+    },
+    {
+        "country": "MS",
+        "latitude": 16.742498,
+        "longitude": -62.187366,
+        "name": "Montserrat",
+        "maplink": "./images/ms/1024.jpg"
+    },
+    {
+        "country": "MT",
+        "latitude": 35.937496,
+        "longitude": 14.375416,
+        "name": "Malta",
+        "maplink": "./images/mt/1024.jpg"
+    },
+    {
+        "country": "MU",
+        "latitude": -20.348404,
+        "longitude": 57.552152,
+        "name": "Mauritius",
+        "maplink": "./images/mu/1024.jpg"
+    },
+    {
+        "country": "MV",
+        "latitude": 3.202778,
+        "longitude": 73.22068,
+        "name": "Maldives",
+        "maplink": "./images/mv/1024.jpg"
+    },
+    {
+        "country": "MW",
+        "latitude": -13.254308,
+        "longitude": 34.301525,
+        "name": "Malawi",
+        "maplink": "./images/mw/1024.jpg"
+    },
+    {
+        "country": "MX",
+        "latitude": 23.634501,
+        "longitude": -102.552784,
+        "name": "Mexico",
+        "maplink": "./images/mx/1024.jpg"
+    },
+    {
+        "country": "MY",
+        "latitude": 4.210484,
+        "longitude": 101.975766,
+        "name": "Malaysia",
+        "maplink": "./images/my/1024.jpg"
+    },
+    {
+        "country": "MZ",
+        "latitude": -18.665695,
+        "longitude": 35.529562,
+        "name": "Mozambique",
+        "maplink": "./images/mz/1024.jpg"
+    },
+    {
+        "country": "NA",
+        "latitude": -22.95764,
+        "longitude": 18.49041,
+        "name": "Namibia",
+        "maplink": "./images/na/1024.jpg"
+    },
+    {
+        "country": "NC",
+        "latitude": -20.904305,
+        "longitude": 165.618042,
+        "name": "New Caledonia",
+        "maplink": "./images/nc/1024.jpg"
+    },
+    {
+        "country": "NE",
+        "latitude": 17.607789,
+        "longitude": 8.081666,
+        "name": "Niger",
+        "maplink": "./images/ne/1024.jpg"
+    },
+    {
+        "country": "NF",
+        "latitude": -29.040835,
+        "longitude": 167.954712,
+        "name": "Norfolk Island",
+        "maplink": "./images/nf/1024.jpg"
+    },
+    {
+        "country": "NG",
+        "latitude": 9.081999,
+        "longitude": 8.675277,
+        "name": "Nigeria",
+        "maplink": "./images/ng/1024.jpg"
+    },
+    {
+        "country": "NI",
+        "latitude": 12.865416,
+        "longitude": -85.207229,
+        "name": "Nicaragua",
+        "maplink": "./images/ni/1024.jpg"
+    },
+    {
+        "country": "NL",
+        "latitude": 52.132633,
+        "longitude": 5.291266,
+        "name": "Netherlands",
+        "maplink": "./images/nl/1024.jpg"
+    },
+    {
+        "country": "NO",
+        "latitude": 60.472024,
+        "longitude": 8.468946,
+        "name": "Norway",
+        "maplink": "./images/no/1024.jpg"
+    },
+    {
+        "country": "NP",
+        "latitude": 28.394857,
+        "longitude": 84.124008,
+        "name": "Nepal",
+        "maplink": "./images/np/1024.jpg"
+    },
+    {
+        "country": "NR",
+        "latitude": -0.522778,
+        "longitude": 166.931503,
+        "name": "Nauru",
+        "maplink": "./images/nr/1024.jpg"
+    },
+    {
+        "country": "NU",
+        "latitude": -19.054445,
+        "longitude": -169.867233,
+        "name": "Niue",
+        "maplink": "./images/nu/1024.jpg"
+    },
+    {
+        "country": "NZ",
+        "latitude": -40.900557,
+        "longitude": 174.885971,
+        "name": "New Zealand",
+        "maplink": "./images/nz/1024.jpg"
+    },
+    {
+        "country": "OM",
+        "latitude": 21.512583,
+        "longitude": 55.923255,
+        "name": "Oman",
+        "maplink": "./images/om/1024.jpg"
+    },
+    {
+        "country": "PA",
+        "latitude": 8.537981,
+        "longitude": -80.782127,
+        "name": "Panama",
+        "maplink": "./images/pa/1024.jpg"
+    },
+    {
+        "country": "PE",
+        "latitude": -9.189967,
+        "longitude": -75.015152,
+        "name": "Peru",
+        "maplink": "./images/pe/1024.jpg"
+    },
+    {
+        "country": "PF",
+        "latitude": -17.679742,
+        "longitude": -149.406843,
+        "name": "French Polynesia",
+        "maplink": "./images/pf/1024.jpg"
+    },
+    {
+        "country": "PG",
+        "latitude": -6.314993,
+        "longitude": 143.95555,
+        "name": "Papua New Guinea",
+        "maplink": "./images/pg/1024.jpg"
+    },
+    {
+        "country": "PH",
+        "latitude": 12.879721,
+        "longitude": 121.774017,
+        "name": "Philippines",
+        "maplink": "./images/ph/1024.jpg"
+    },
+    {
+        "country": "PK",
+        "latitude": 30.375321,
+        "longitude": 69.345116,
+        "name": "Pakistan",
+        "maplink": "./images/pk/1024.jpg"
+    },
+    {
+        "country": "PL",
+        "latitude": 51.919438,
+        "longitude": 19.145136,
+        "name": "Poland",
+        "maplink": "./images/pl/1024.jpg"
+    },
+    {
+        "country": "PM",
+        "latitude": 46.941936,
+        "longitude": -56.27111,
+        "name": "Saint Pierre and Miquelon",
+        "maplink": "./images/pm/1024.jpg"
+    },
+    {
+        "country": "PN",
+        "latitude": -24.703615,
+        "longitude": -127.439308,
+        "name": "Pitcairn Islands",
+        "maplink": "./images/pn/1024.jpg"
+    },
+    {
+        "country": "PR",
+        "latitude": 18.220833,
+        "longitude": -66.590149,
+        "name": "Puerto Rico",
+        "maplink": "./images/pr/1024.jpg"
+    },
+    {
+        "country": "PS",
+        "latitude": 31.952162,
+        "longitude": 35.233154,
+        "name": "Palestinian Territories",
+        "maplink": "./images/ps/1024.jpg"
+    },
+    {
+        "country": "PT",
+        "latitude": 39.399872,
+        "longitude": -8.224454,
+        "name": "Portugal",
+        "maplink": "./images/pt/1024.jpg"
+    },
+    {
+        "country": "PW",
+        "latitude": 7.51498,
+        "longitude": 134.58252,
+        "name": "Palau",
+        "maplink": "./images/pw/1024.jpg"
+    },
+    {
+        "country": "PY",
+        "latitude": -23.442503,
+        "longitude": -58.443832,
+        "name": "Paraguay",
+        "maplink": "./images/py/1024.jpg"
+    },
+    {
+        "country": "QA",
+        "latitude": 25.354826,
+        "longitude": 51.183884,
+        "name": "Qatar",
+        "maplink": "./images/qa/1024.jpg"
+    },
+    {
+        "country": "RE",
+        "latitude": -21.115141,
+        "longitude": 55.536384,
+        "name": "R\u00c3\u00a9union",
+        "maplink": "./images/re/1024.jpg"
+    },
+    {
+        "country": "RO",
+        "latitude": 45.943161,
+        "longitude": 24.96676,
+        "name": "Romania",
+        "maplink": "./images/ro/1024.jpg"
+    },
+    {
+        "country": "RS",
+        "latitude": 44.016521,
+        "longitude": 21.005859,
+        "name": "Serbia",
+        "maplink": "./images/rs/1024.jpg"
+    },
+    {
+        "country": "RU",
+        "latitude": 61.52401,
+        "longitude": 105.318756,
+        "name": "Russia",
+        "maplink": "./images/ru/1024.jpg"
+    },
+    {
+        "country": "RW",
+        "latitude": -1.940278,
+        "longitude": 29.873888,
+        "name": "Rwanda",
+        "maplink": "./images/rw/1024.jpg"
+    },
+    {
+        "country": "SA",
+        "latitude": 23.885942,
+        "longitude": 45.079162,
+        "name": "Saudi Arabia",
+        "maplink": "./images/sa/1024.jpg"
+    },
+    {
+        "country": "SB",
+        "latitude": -9.64571,
+        "longitude": 160.156194,
+        "name": "Solomon Islands",
+        "maplink": "./images/sb/1024.jpg"
+    },
+    {
+        "country": "SC",
+        "latitude": -4.679574,
+        "longitude": 55.491977,
+        "name": "Seychelles",
+        "maplink": "./images/sc/1024.jpg"
+    },
+    {
+        "country": "SD",
+        "latitude": 12.862807,
+        "longitude": 30.217636,
+        "name": "Sudan",
+        "maplink": "./images/sd/1024.jpg"
+    },
+    {
+        "country": "SE",
+        "latitude": 60.128161,
+        "longitude": 18.643501,
+        "name": "Sweden",
+        "maplink": "./images/se/1024.jpg"
+    },
+    {
+        "country": "SG",
+        "latitude": 1.352083,
+        "longitude": 103.819836,
+        "name": "Singapore",
+        "maplink": "./images/sg/1024.jpg"
+    },
+    {
+        "country": "SH",
+        "latitude": -24.143474,
+        "longitude": -10.030696,
+        "name": "Saint Helena",
+        "maplink": "./images/sh/1024.jpg"
+    },
+    {
+        "country": "SI",
+        "latitude": 46.151241,
+        "longitude": 14.995463,
+        "name": "Slovenia",
+        "maplink": "./images/si/1024.jpg"
+    },
+    {
+        "country": "SJ",
+        "latitude": 77.553604,
+        "longitude": 23.670272,
+        "name": "Svalbard and Jan Mayen",
+        "maplink": "./images/sj/1024.jpg"
+    },
+    {
+        "country": "SK",
+        "latitude": 48.669026,
+        "longitude": 19.699024,
+        "name": "Slovakia",
+        "maplink": "./images/sk/1024.jpg"
+    },
+    {
+        "country": "SL",
+        "latitude": 8.460555,
+        "longitude": -11.779889,
+        "name": "Sierra Leone",
+        "maplink": "./images/sl/1024.jpg"
+    },
+    {
+        "country": "SM",
+        "latitude": 43.94236,
+        "longitude": 12.457777,
+        "name": "San Marino",
+        "maplink": "./images/sm/1024.jpg"
+    },
+    {
+        "country": "SN",
+        "latitude": 14.497401,
+        "longitude": -14.452362,
+        "name": "Senegal",
+        "maplink": "./images/sn/1024.jpg"
+    },
+    {
+        "country": "SO",
+        "latitude": 5.152149,
+        "longitude": 46.199616,
+        "name": "Somalia",
+        "maplink": "./images/so/1024.jpg"
+    },
+    {
+        "country": "SR",
+        "latitude": 3.919305,
+        "longitude": -56.027783,
+        "name": "Suriname",
+        "maplink": "./images/sr/1024.jpg"
+    },
+    {
+        "country": "ST",
+        "latitude": 0.18636,
+        "longitude": 6.613081,
+        "name": "S\u00c3\u00a3o Tom\u00c3\u00a9 and Pr\u00c3\u00adncipe",
+        "maplink": "./images/st/1024.jpg"
+    },
+    {
+        "country": "SV",
+        "latitude": 13.794185,
+        "longitude": -88.89653,
+        "name": "El Salvador",
+        "maplink": "./images/sv/1024.jpg"
+    },
+    {
+        "country": "SY",
+        "latitude": 34.802075,
+        "longitude": 38.996815,
+        "name": "Syria",
+        "maplink": "./images/sy/1024.jpg"
+    },
+    {
+        "country": "SZ",
+        "latitude": -26.522503,
+        "longitude": 31.465866,
+        "name": "Swaziland",
+        "maplink": "./images/sz/1024.jpg"
+    },
+    {
+        "country": "TC",
+        "latitude": 21.694025,
+        "longitude": -71.797928,
+        "name": "Turks and Caicos Islands",
+        "maplink": "./images/tc/1024.jpg"
+    },
+    {
+        "country": "TD",
+        "latitude": 15.454166,
+        "longitude": 18.732207,
+        "name": "Chad",
+        "maplink": "./images/td/1024.jpg"
+    },
+    {
+        "country": "TF",
+        "latitude": -49.280366,
+        "longitude": 69.348557,
+        "name": "French Southern Territories",
+        "maplink": "./images/tf/1024.jpg"
+    },
+    {
+        "country": "TG",
+        "latitude": 8.619543,
+        "longitude": 0.824782,
+        "name": "Togo",
+        "maplink": "./images/tg/1024.jpg"
+    },
+    {
+        "country": "TH",
+        "latitude": 15.870032,
+        "longitude": 100.992541,
+        "name": "Thailand",
+        "maplink": "./images/th/1024.jpg"
+    },
+    {
+        "country": "TJ",
+        "latitude": 38.861034,
+        "longitude": 71.276093,
+        "name": "Tajikistan",
+        "maplink": "./images/tj/1024.jpg"
+    },
+    {
+        "country": "TK",
+        "latitude": -8.967363,
+        "longitude": -171.855881,
+        "name": "Tokelau",
+        "maplink": "./images/tk/1024.jpg"
+    },
+    {
+        "country": "TL",
+        "latitude": -8.874217,
+        "longitude": 125.727539,
+        "name": "Timor-Leste",
+        "maplink": "./images/tl/1024.jpg"
+    },
+    {
+        "country": "TM",
+        "latitude": 38.969719,
+        "longitude": 59.556278,
+        "name": "Turkmenistan",
+        "maplink": "./images/tm/1024.jpg"
+    },
+    {
+        "country": "TN",
+        "latitude": 33.886917,
+        "longitude": 9.537499,
+        "name": "Tunisia",
+        "maplink": "./images/tn/1024.jpg"
+    },
+    {
+        "country": "TO",
+        "latitude": -21.178986,
+        "longitude": -175.198242,
+        "name": "Tonga",
+        "maplink": "./images/to/1024.jpg"
+    },
+    {
+        "country": "TR",
+        "latitude": 38.963745,
+        "longitude": 35.243322,
+        "name": "Turkey",
+        "maplink": "./images/tr/1024.jpg"
+    },
+    {
+        "country": "TT",
+        "latitude": 10.691803,
+        "longitude": -61.222503,
+        "name": "Trinidad and Tobago",
+        "maplink": "./images/tt/1024.jpg"
+    },
+    {
+        "country": "TV",
+        "latitude": -7.109535,
+        "longitude": 177.64933,
+        "name": "Tuvalu",
+        "maplink": "./images/tv/1024.jpg"
+    },
+    {
+        "country": "TW",
+        "latitude": 23.69781,
+        "longitude": 120.960515,
+        "name": "Taiwan",
+        "maplink": "./images/tw/1024.jpg"
+    },
+    {
+        "country": "TZ",
+        "latitude": -6.369028,
+        "longitude": 34.888822,
+        "name": "Tanzania",
+        "maplink": "./images/tz/1024.jpg"
+    },
+    {
+        "country": "UA",
+        "latitude": 48.379433,
+        "longitude": 31.16558,
+        "name": "Ukraine",
+        "maplink": "./images/ua/1024.jpg"
+    },
+    {
+        "country": "UG",
+        "latitude": 1.373333,
+        "longitude": 32.290275,
+        "name": "Uganda",
+        "maplink": "./images/ug/1024.jpg"
+    },
+    {
+        "country": "UM",
+        "latitude": null,
+        "longitude": null,
+        "name": "U.S. Minor Outlying Islands",
+        "maplink": "./images/um/1024.jpg"
+    },
+    {
+        "country": "US",
+        "latitude": 37.09024,
+        "longitude": -95.712891,
+        "name": "United States",
+        "maplink": "./images/us/1024.jpg"
+    },
+    {
+        "country": "UY",
+        "latitude": -32.522779,
+        "longitude": -55.765835,
+        "name": "Uruguay",
+        "maplink": "./images/uy/1024.jpg"
+    },
+    {
+        "country": "UZ",
+        "latitude": 41.377491,
+        "longitude": 64.585262,
+        "name": "Uzbekistan",
+        "maplink": "./images/uz/1024.jpg"
+    },
+    {
+        "country": "VA",
+        "latitude": 41.902916,
+        "longitude": 12.453389,
+        "name": "Vatican City",
+        "maplink": "./images/va/1024.jpg"
+    },
+    {
+        "country": "VC",
+        "latitude": 12.984305,
+        "longitude": -61.287228,
+        "name": "Saint Vincent and the Grenadines",
+        "maplink": "./images/vc/1024.jpg"
+    },
+    {
+        "country": "VE",
+        "latitude": 6.42375,
+        "longitude": -66.58973,
+        "name": "Venezuela",
+        "maplink": "./images/ve/1024.jpg"
+    },
+    {
+        "country": "VG",
+        "latitude": 18.420695,
+        "longitude": -64.639968,
+        "name": "British Virgin Islands",
+        "maplink": "./images/vg/1024.jpg"
+    },
+    {
+        "country": "VI",
+        "latitude": 18.335765,
+        "longitude": -64.896335,
+        "name": "U.S. Virgin Islands",
+        "maplink": "./images/vi/1024.jpg"
+    },
+    {
+        "country": "VN",
+        "latitude": 14.058324,
+        "longitude": 108.277199,
+        "name": "Vietnam",
+        "maplink": "./images/vn/1024.jpg"
+    },
+    {
+        "country": "VU",
+        "latitude": -15.376706,
+        "longitude": 166.959158,
+        "name": "Vanuatu",
+        "maplink": "./images/vu/1024.jpg"
+    },
+    {
+        "country": "WF",
+        "latitude": -13.768752,
+        "longitude": -177.156097,
+        "name": "Wallis and Futuna",
+        "maplink": "./images/wf/1024.jpg"
+    },
+    {
+        "country": "WS",
+        "latitude": -13.759029,
+        "longitude": -172.104629,
+        "name": "Samoa",
+        "maplink": "./images/ws/1024.jpg"
+    },
+    {
+        "country": "XK",
+        "latitude": 42.602636,
+        "longitude": 20.902977,
+        "name": "Kosovo",
+        "maplink": "./images/xk/1024.jpg"
+    },
+    {
+        "country": "YE",
+        "latitude": 15.552727,
+        "longitude": 48.516388,
+        "name": "Yemen",
+        "maplink": "./images/ye/1024.jpg"
+    },
+    {
+        "country": "YT",
+        "latitude": -12.8275,
+        "longitude": 45.166244,
+        "name": "Mayotte",
+        "maplink": "./images/yt/1024.jpg"
+    },
+    {
+        "country": "ZA",
+        "latitude": -30.559482,
+        "longitude": 22.937506,
+        "name": "South Africa",
+        "maplink": "./images/za/1024.jpg"
+    },
+    {
+        "country": "ZM",
+        "latitude": -13.133897,
+        "longitude": 27.849332,
+        "name": "Zambia",
+        "maplink": "./images/zm/1024.jpg"
+    },
+    {
+        "country": "ZW",
+        "latitude": -19.015438,
+        "longitude": 29.154857,
+        "name": "Zimbabwe",
+        "maplink": "./images/zw/1024.jpg"
+    }
+]

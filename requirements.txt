@@ -1,0 +1,7 @@
+emoji
+numpy
+pandas
+Pillow
+print_color
+psutil
+termcolor
